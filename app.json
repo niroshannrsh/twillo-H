@@ -10,19 +10,19 @@
   ],
   "env": {
     "ACCOUNT_SID": {
-      "description": "Your Twilio Account Sid",
+      "description": "ACb8179281b9e23459f69c3efc777dc71f",
       "required": true
     },
     "AUTH_TOKEN": {
-      "description": "Your Twilio Auth Token",
+      "description": "81da73cd01ee28f59d7ea15de7093766",
       "required": true
     },
     "APP_SID": {
-      "description": "Your TwiML App Sid that points to this web server",
+      "description": "AP1ae2ba90b021f8046e73e819a6f1d094",
       "required": true
     },
     "CALLER_ID": {
-      "description": "Phone number verified with your Twilio Account",
+      "description": "+94772080907",
       "required": true
     }
   }
